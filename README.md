@@ -13,6 +13,14 @@ The dashboard provides insights into Adverse Drug Reaction (ADR) reports through
 
 - Microsoft Excel
 - Google Looker Studio
+  
+
+  ## 🔗 Live Dashboard
+
+View the interactive Google Looker Studio dashboard here:
+
+**https://datastudio.google.com/s/ksVd_3g21Iw**
+
 
 ---
 
