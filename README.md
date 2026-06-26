@@ -1,4 +1,5 @@
 # 📊 ADR Analytics Dashboard
+![Dashboard](Dashboard.png.png)
 
 ## 💊 Drug Safety Analysis | Pharmacovigilance Portfolio Project
 
