@@ -36,7 +36,7 @@ The dashboard provides insights into Adverse Drug Reaction (ADR) reports through
 ## 📂 Dataset
 
 - Sample Dataset
-- 500 ADR Records
+- 60 ADR Records
 
 ---
 
@@ -55,5 +55,5 @@ The dashboard provides insights into Adverse Drug Reaction (ADR) reports through
 
 ## 👨‍💻 Author
 
-**Mayank Singh Bisht**
+**Mayank Singh**
 B.Pharm Student | Pharmacovigilance Aspirant
